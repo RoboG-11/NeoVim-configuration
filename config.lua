@@ -116,4 +116,3 @@ nls.setup({
     -- nls.builtins.diagnostics.phpcs.with({ extra_args = { "--standard=PSR12" }, method = nls.methods.DIAGNOSTICS_ON_SAVE }),
   },
 })
-
