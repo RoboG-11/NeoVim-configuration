@@ -4,3 +4,4 @@ I currently use the base [LunarVim](https://github.com/lunarvim/lunarvim) config
 <br/>
 Sample Gif of a test example of how I use it:
 ![](/IMG/Gif_NeoVim.gif)
+gif example.
