@@ -5,4 +5,4 @@ Currently I'm occupying a configuration called [NvChad](https://github.com/NvCha
 Here is a gif showing a small example of how I have my configuration and how I use it:
 
 
-![](/IMG/NeoVim.gif)
+![](/IMG/Gif_NeoVim.gif)
