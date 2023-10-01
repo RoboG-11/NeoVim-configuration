@@ -1,6 +1,8 @@
 # NeoVim-configuration
-I currently use the base [LunarVim](https://github.com/lunarvim/lunarvim) configuration with some personal modifications. The extra modifications are in this repository.
+Currently I'm occupying a configuration called [NvChad](https://github.com/NvChad/NvChad) with some personal configurations. This repository contains the base configuration of [NvChad](https://github.com/NvChad/NvChad) with my configurations.
 <br/>
 <br/>
-Example gif of my current configuration:
-![](/IMG/Gif_NeoVim.gif)
+Here is a gif showing a small example of how I have my configuration and how I use it:
+
+
+![](/IMG/NeoVim.gif)
